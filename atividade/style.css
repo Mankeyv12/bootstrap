@@ -1,0 +1,27 @@
+
+.banner{
+    background-image:url("/img/Banner1.png");
+background-size: cover;
+width: 1900px;
+height: 800px;
+}
+
+.button{
+    align-items: center;
+    padding-top: 30%;
+    padding-left: 42%;
+}
+.botao{
+    padding-left: 80%;
+
+}
+.tab{
+    padding-left: 40%;
+    width: 70%;
+   
+    
+    
+}
+.fundo{
+background-color: bisque;
+}
